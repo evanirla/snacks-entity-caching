@@ -7,11 +7,13 @@
     <Description>Caching extensions for the Snacks.Entity.Core package</Description>
     <Copyright>2020 - Evan Irla</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/evanirla/snacks-entity-authorization</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/evanirla/snacks-entity-authorization</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/evanirla/snacks-entity-caching</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/evanirla/snacks-entity-caching</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>ef-core, caching</PackageTags>
-    <Version>2.0.0</Version>
+    <Version>2.0.1</Version>
+    <AssemblyVersion>2.0.1.0</AssemblyVersion>
+    <FileVersion>2.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
